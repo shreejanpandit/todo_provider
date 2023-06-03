@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "916897903812",
+    "project_id": "todoyodhha",
+    "storage_bucket": "todoyodhha.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:916897903812:android:270da0895b33853c174591",
+        "android_client_info": {
+          "package_name": "com.example.todo_firabase_flutter_yoddha"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBllOLy8UvKCsE0ii0-lSg9y3-0Qb2PNeA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
